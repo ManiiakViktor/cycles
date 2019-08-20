@@ -1,0 +1,7 @@
+C:\Users\Viktor\source\repos\cycles\cycles\bin\Debug\cycles.exe.config
+C:\Users\Viktor\source\repos\cycles\cycles\bin\Debug\cycles.exe
+C:\Users\Viktor\source\repos\cycles\cycles\bin\Debug\cycles.pdb
+C:\Users\Viktor\source\repos\cycles\cycles\obj\Debug\cycles.csprojAssemblyReference.cache
+C:\Users\Viktor\source\repos\cycles\cycles\obj\Debug\cycles.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\cycles\cycles\obj\Debug\cycles.exe
+C:\Users\Viktor\source\repos\cycles\cycles\obj\Debug\cycles.pdb
